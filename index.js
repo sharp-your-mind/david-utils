@@ -5,3 +5,5 @@
  * @returns  numbers
  */
 const getNumber = (num1, num2) => num1 + num2
+
+module.exports = { getNumber }
