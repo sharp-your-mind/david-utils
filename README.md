@@ -1,2 +1,2 @@
 # david-utils
-some utils
+some js utils 

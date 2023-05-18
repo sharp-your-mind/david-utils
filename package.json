@@ -1,0 +1,19 @@
+{
+  "name": "david-utils",
+  "version": "1.0.0",
+  "description": "some js utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharp-your-mind/david-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharp-your-mind/david-utils/issues"
+  },
+  "homepage": "https://github.com/sharp-your-mind/david-utils#readme"
+}
