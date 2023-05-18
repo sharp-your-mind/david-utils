@@ -4,6 +4,6 @@
  * @param {number} num2 
  * @returns  numbers
  */
-const getNumber = (num1, num2) => num1 + num2
+const addNumber = (num1, num2) => num1 + num2
 
-module.exports = { getNumber }
+module.exports = { addNumber }
